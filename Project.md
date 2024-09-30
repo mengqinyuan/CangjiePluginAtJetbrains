@@ -9,4 +9,3 @@
 `src/main/java/com.mengqinyuan.cangjie/CangjieLanguage`
 3. Create Icon:
 `src/man/java/resources/icons/CJ.png`
-4. Run IDE: Find Icon change
